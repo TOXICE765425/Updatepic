@@ -16,5 +16,5 @@
   ],
   "telegram_link": "https://t.me/Toxice_Ox",
   "update_link": "https://t.me/toxice_jay",
-  "dialog_exit_on_false": false
+  "dialog_exit_on_false": true
 }
